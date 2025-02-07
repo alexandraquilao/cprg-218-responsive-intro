@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: antiquewhite;
+}
+
+@media screen and (max-with:400px){
+    /*anytime the page is shown on a screen, with a width from 0-400px wide. */
+    body{
+        background-color: yellow;
+        color: black;
+    }
+}
