@@ -41,5 +41,6 @@ footer{
         "bottom";
         /*display: block*; */
         grid-template-columns: 1fr;
+        gap:0;
 }
 }
